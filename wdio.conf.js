@@ -22,8 +22,8 @@ exports.config = {
     //
     specs: [
         //'./test/specs/firstTest.js'
-        './test/specs/test.e2e.js' 
-    ],     
+        './test/specs/uiControls.js' 
+    ],
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
